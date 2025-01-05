@@ -1,6 +1,6 @@
 ﻿#include <iostream>
 #include <string>
-#include <cctype>
+#include <cctype>//nie potrzebne
 using namespace std;
 string slowo;
 char litera;
