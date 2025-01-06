@@ -6,8 +6,8 @@ int main()
 {
 	cout << "Podaj liczbe w systemie o podstawie p : "; cin >> s;
 	cout << "Podaj podstawe: "; cin >> p;
-	if (s.size() >= 6)
-		return 0;
+//	if (s.size() >= 6) //nie potrzebne
+//		return 0;
 	for (int i = 0; i < s.size() ; i++)
 	{ 
 		if (s[i] <= '9')
